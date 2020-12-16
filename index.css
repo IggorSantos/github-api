@@ -1,0 +1,18 @@
+#container{
+  display:grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px;
+}
+
+input{
+  border-radius: 10px;
+  width:300px;
+  height: 30px;
+  justify-self:center;
+}
+button{
+  border-radius: 10px;
+  height: 30px;
+  width: 100px;
+  justify-self:center;
+}
