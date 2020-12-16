@@ -2,6 +2,7 @@
   display:grid;
   grid-template-columns: 1fr;
   grid-gap: 10px;
+  margin-bottom: 20px;
 }
 
 input{
@@ -16,7 +17,17 @@ button{
   width: 100px;
   justify-self:center;
 }
+main{
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px;
+
+}
+#resName{
+  justify-self:center;
+}
 img{
-  width:50px;
-  border-radius: 50px;
+  width:200px;
+  border-radius: 300px;
+  justify-self:center;
 }

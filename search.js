@@ -13,6 +13,5 @@ async function search(){
      .then((respostaEmObjeto) => respostaEmObjeto)
    document.getElementById('resName').innerHTML = responseUser.login
    document.getElementById('resAvatar').src = responseUser.avatar_url
-   console.log(responseUser.avatar_url)
-
+  
 }
