@@ -16,3 +16,7 @@ button{
   width: 100px;
   justify-self:center;
 }
+img{
+  width:50px;
+  border-radius: 50px;
+}
