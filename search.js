@@ -7,6 +7,8 @@ async function search(){
        }
        else{
          document.getElementById('resName').innerHTML = ("Não encontrado")
+         document.getElementById('resAvatar').src = ("https://via.placeholder.com/150/771796")
+         document.getElementById('resBio').innerHTML = ""
          throw new Error("Não encontrado")
        }
      })
