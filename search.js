@@ -17,7 +17,6 @@ async function search(){
            throw new Error("Não encontrado")
          }
        })
-       .then((respostaEmObjeto) => respostaEmObjeto)
      document.getElementById('resName').innerHTML = responseUser.login
      document.getElementById('resAvatar').src = responseUser.avatar_url
      document.getElementById('resBio').innerHTML = responseUser.bio
