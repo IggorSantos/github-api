@@ -12,4 +12,4 @@ Uma aplicação feita consumindo a Api do Github. O usuário digita um nome na b
 - HTML
 - CSS3
 - Flexbox
-- Javascript
+- Javascript. Foi utilizado o Fetch Api do Javascript para realizar a conexão com a api do Github.
