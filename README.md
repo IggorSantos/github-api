@@ -13,3 +13,6 @@ Uma aplicação feita consumindo a Api do Github. O usuário digita um nome na b
 - CSS3
 - Flexbox
 - Javascript. Foi utilizado o Fetch Api do Javascript para realizar a conexão com a api do Github.
+
+## Como executar
+Para executar o projeto é preciso apenas clona-lo para sua maquina e executar no seu localhost
