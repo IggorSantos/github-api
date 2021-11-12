@@ -2,6 +2,8 @@
 
 # Github-Api
 Aplicação consumindo a Api do Github
+
+[Acesse através desse link](https://iggorsantos.github.io/github-api/)
 <img src="/github-api.gif">
 
 ## Sobre
